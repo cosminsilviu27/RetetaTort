@@ -1,0 +1,7 @@
+C:\Users\cosmi\source\repos\Retete\Retete\obj\Debug\Retete.csproj.AssemblyReference.cache
+C:\Users\cosmi\source\repos\Retete\Retete\obj\Debug\Retete.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\source\repos\Retete\Retete\bin\Debug\Retete.exe.config
+C:\Users\cosmi\source\repos\Retete\Retete\bin\Debug\Retete.exe
+C:\Users\cosmi\source\repos\Retete\Retete\bin\Debug\Retete.pdb
+C:\Users\cosmi\source\repos\Retete\Retete\obj\Debug\Retete.exe
+C:\Users\cosmi\source\repos\Retete\Retete\obj\Debug\Retete.pdb
